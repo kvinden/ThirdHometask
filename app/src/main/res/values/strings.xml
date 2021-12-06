@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThirdHometask</string>
+    <string name="hello_black">Hello Black!</string>
+    <string name="bye">Bye</string>
+    <string name="hello">Hello</string>
+    <string name="hello_white">HELLO WHITE!</string>
+</resources>
